@@ -4,3 +4,5 @@
 ./xmlchange CCSM_CO2_PPMV=408.83
 ./xmlchange DATM_PRESAERO=SSP3-7.0
 ./xmlchange DATM_YR_ALIGN=2018,DATM_YR_END=2020,DATM_YR_START=2018
+./xmlchange PIO_REARRANGER_LND=2
+./xmlchange PIO_TYPENAME=netcdf
